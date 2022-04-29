@@ -3,7 +3,9 @@
 
 ## Objectives: 
 (i) to implement three mainstream signal detection methods
+
 (ii) to implement clustering and stratified PRR to deal with confounding
+
 (iii) to compare drug-symptom pairs that are highlighted by PRR, for both unstratified and stratified data
 
 ## Methods: 
